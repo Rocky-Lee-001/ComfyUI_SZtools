@@ -1,7 +1,6 @@
 # ComfyUI_SZtools
-1. This project is the comfyui implementation of ComfyUI_SZtools, a labeling and naming tool developed for Kontext's local training package T2ITrainer.
-   
-3. Lrzjason/T2iTraining Address: https://github.com/lrzjason/T2ITrainer
+1.This project is the comfyui implementation of ComfyUI_SZtools, a labeling and naming tool developed for Kontext's local training package T2ITrainer.
+2.Lrzjason/T2iTraining Address: https://github.com/lrzjason/T2ITrainer
    
 The naming convention for the T2ITrainer training set is: xxx_ R.png, xxx_ T. png, xxx_ R.txt
 
@@ -11,21 +10,21 @@ Batch naming of images as comfyui0001_R.png (can/cannot save reverse text) is ac
 
 Thus, when T2ITrainer trains Kontext LoRA locally, it can quickly achieve the task of marking the training set (requiring the combination of other reverse inference prompt word nodes)
 
-5. Installation method:
+3.Installation method:
    
 git clone  https://github.com/comfyanonymous/ComfyUI.git
 
 Or download the installation package
 
-7. Installation environment dependencies:
+4.Installation environment dependencies:
    
 python.exe -m pip install -r D:\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_SZtools\requirements.txt
 
-9. ComfyUI_SZtools also includes other nodes.
+5.ComfyUI_SZtools also includes other nodes.
     
 Thank you to lrzjason/T2iTraining for their work.
 
-11. The homepage of AIGI's Bilibili for Teacher Mangosteen: https://space.bilibili.com/158424637?spm_id_from=333.1007.0.0
+6.The homepage of AIGI's Bilibili for Teacher Mangosteen: https://space.bilibili.com/158424637?spm_id_from=333.1007.0.0
 
 # ComfyUI_SZtools
 1.本项目是ComfyUI_SZtools的comfyui实现，为Kontext的本地训练包T2ITrainer而开发的打标命名工具。  
