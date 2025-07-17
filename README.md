@@ -6,7 +6,6 @@ Batch naming of images as comfyui0001_T.png and comfyui0001_T.txt is achieved by
 Batch naming of images as comfyui0001_R.png (can/cannot save reverse text) is achieved by saving the R-mangosteen Kontext path node in ComfyUI_SZtools
 Thus, when T2ITrainer trains Kontext LoRA locally, it can quickly achieve the task of marking the training set (requiring the combination of other reverse inference prompt word nodes)
 4. Installation method:
-Install through Git
 git clone  https://github.com/comfyanonymous/ComfyUI.git
 Or download the installation package
 6. Installation environment dependencies:
