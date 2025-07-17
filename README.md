@@ -9,11 +9,11 @@ Thus, when T2ITrainer trains Kontext LoRA locally, it can quickly achieve the ta
 Install through Git
 git clone  https://github.com/comfyanonymous/ComfyUI.git
 Or download the installation package
-5. Installation environment dependencies:
+6. Installation environment dependencies:
 python.exe -m pip install -r D:\ComfyUI_windows_portable\ComfyUI\custom_nodes\ComfyUI_SZtools\requirements.txt
-6. ComfyUI_SZtools also includes other nodes.
+8. ComfyUI_SZtools also includes other nodes.
 Thank you to lrzjason/T2iTraining for their work.
-7. The homepage of AIGI's Bilibili for Teacher Mangosteen: https://space.bilibili.com/158424637?spm_id_from=333.1007.0.0
+10. The homepage of AIGI's Bilibili for Teacher Mangosteen: https://space.bilibili.com/158424637?spm_id_from=333.1007.0.0
 
 # ComfyUI_SZtools
 1.本项目是ComfyUI_SZtools的comfyui实现，为Kontext的本地训练包T2ITrainer而开发的打标命名工具。  
